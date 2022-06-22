@@ -1,11 +1,6 @@
 from ast import keyword
-import math
-import re
-import time
 from timeit import default_timer
 from flask import Flask, render_template, request, jsonify
-# from flask_cors import CORS
-# from flask_sqlalchemy import SQLAlchemy
 import pyodbc
 from server import *
 import pickle
