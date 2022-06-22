@@ -1,0 +1,4 @@
+Flask==1.1.2
+pyodbc==4.0.30
+python-dateutil==2.8.1
+redis==3.5.3
